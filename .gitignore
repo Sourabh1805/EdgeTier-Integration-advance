@@ -1,2 +1,11 @@
 .idea
 *.pyc
+__pycache__
+.env
+.vscode/
+*.db
+*.pyc
+venv
+.vscode
+.env.dev
+.env.test

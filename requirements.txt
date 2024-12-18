@@ -5,3 +5,11 @@ pydantic==2.7.1
 requests==2.32.3
 SQLAlchemy==2.0.31
 uvicorn==0.29.0
+python-dotenv
+pydantic-settings
+rich
+asgi-correlation-id
+python-json-logger
+httpx
+sqlalchemy[asyncio]
+aiosqlite
